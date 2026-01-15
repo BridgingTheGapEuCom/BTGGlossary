@@ -1,0 +1,18 @@
+contexts:
+  - name: BridgingTheGap
+    domainVisionStatement: BridgingTheGap is a project dedicated to share knowledge about integration architecture and interoperability.
+    meta:
+      "👥 Owner:": "[Karol Skrzymowski](https://www.linkedin.com/in/karolskrzymowski/)"
+    terms:
+    - name: Loosely Coupled
+      definition: A live stream organized by BridgingTheGap to talk about all manner of topics that are Loosely related to Integration architecture, so directly or indirectly influence analysis, design, development, testing, deployment and operations. The format of the stream is also 'loose', where the focus is on conversation and sharing concepts, ideas and knowledge, rather than strict presentation or product placement. The stream is aired live on YouTube and LinkedIn.
+      aliases:
+       - live stream
+       - stream
+       - podcast
+      meta:
+        "🌐 Ref:": "[BridgingTheGap  YouTube Channel](https://www.youtube.com/@BridgingTheGap-eu-com)"
+    - name: event
+      definition: Members of BridgingTheGap often participate in various events such as conferences, meet-ups, live streams, workshops.
+      meta:
+        "🌐 Ref:": "[Upcoming Events](https://bridgingthegap.eu.com/upcomingEvents)"
