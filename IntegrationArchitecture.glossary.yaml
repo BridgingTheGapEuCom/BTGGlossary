@@ -1,0 +1,20 @@
+contexts:
+  - name: Integration Architecture
+    domainVisionStatement: A collection of concepts, terms and patterns that are shared throughout various architectural styles.
+    meta:
+      "👥 Owner:": "[Karol Skrzymowski](https://www.linkedin.com/in/karolskrzymowski/)"
+    terms:
+    - name: Application Integration
+      definition: An IT field of specialization that is dedicated to connecting various system, facilitating data exchange and enabling distinct systems to function as one ecosystem.
+      aliases:
+        - EAI
+        - Integration
+        - Data movement
+      meta:
+        "🌐 Ref:": "[Application Integration](https://bridgingthegap.eu.com/articles/What_is_Application_Integration)"
+    - name: Data Integration
+      definition: An IT field of specialization that is dedicated to tending to distributed data sets (from various systems), combining and harmonizing them to create data products that would have semantic meaning and business value through a unified view within a specific context.
+      aliases:
+        - Integration
+      meta:
+        "🌐 Ref:": "[Data Integration](https://bridgingthegap.eu.com/articles/Data_Integration_vs_Application_Integration#What_is_Data_Integration)"
